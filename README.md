@@ -10,7 +10,7 @@
 
 
 ## Description 
- This is just simple chat appliction. 
+ This is just a simple chat appliction. 
  
 ## technology
 this app is realtime chat appliction .
