@@ -10,8 +10,7 @@
 
 
 ## Description 
- This is just simple project on chat appliction. 
- this is realtime chat appliction.i hope this project gives you little idea about chat appliction. 
+ This is just simple chat appliction. 
  
 ## technology
 this app is realtime chat appliction .
